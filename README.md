@@ -1,1 +1,2 @@
-# SPAM-HAM-Classification
+# SPAM/HAM Classification
+
